@@ -1,0 +1,41 @@
+--- 各列是否存在缺失值 ---
+index         False
+instant       False
+dteday        False
+season        False
+yr            False
+mnth          False
+hr            False
+holiday       False
+weekday       False
+workingday    False
+weathersit    False
+temp          False
+atemp         False
+hum           False
+windspeed     False
+casual        False
+registered    False
+cnt           False
+dtype: bool
+
+--- 各列的缺失值总数 ---
+index         0
+instant       0
+dteday        0
+season        0
+yr            0
+mnth          0
+hr            0
+holiday       0
+weekday       0
+workingday    0
+weathersit    0
+temp          0
+atemp         0
+hum           0
+windspeed     0
+casual        0
+registered    0
+cnt           0
+dtype: int64

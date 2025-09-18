@@ -1,0 +1,17 @@
+cnt           1.000000
+registered    0.986656
+casual        0.714630
+hr            0.448201
+temp          0.363949
+atemp         0.361046
+index         0.193270
+instant       0.193270
+season        0.168729
+workingday    0.157945
+yr            0.151157
+mnth          0.122223
+windspeed     0.103617
+weekday       0.028784
+weathersit   -0.115341
+hum          -0.305987
+holiday            NaN

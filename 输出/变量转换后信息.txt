@@ -1,0 +1,25 @@
+<class 'pandas.core.frame.DataFrame'>
+Index: 14799 entries, 0 to 17378
+Data columns (total 18 columns):
+ #   Column      Non-Null Count  Dtype   
+---  ------      --------------  -----   
+ 0   index       14799 non-null  int64   
+ 1   instant     14799 non-null  int64   
+ 2   dteday      14799 non-null  object  
+ 3   season      14799 non-null  category
+ 4   yr          14799 non-null  int64   
+ 5   mnth        14799 non-null  category
+ 6   hr          14799 non-null  category
+ 7   holiday     14799 non-null  category
+ 8   weekday     14799 non-null  category
+ 9   workingday  14799 non-null  category
+ 10  weathersit  14799 non-null  category
+ 11  temp        14799 non-null  float64 
+ 12  atemp       14799 non-null  float64 
+ 13  hum         14799 non-null  float64 
+ 14  windspeed   14799 non-null  float64 
+ 15  casual      14799 non-null  int64   
+ 16  registered  14799 non-null  int64   
+ 17  cnt         14799 non-null  int64   
+dtypes: category(7), float64(4), int64(6), object(1)
+memory usage: 1.5+ MB
